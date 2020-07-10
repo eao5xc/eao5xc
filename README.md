@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello there 👋🏾👋🏾
 
-<!--
-**eao5xc/eao5xc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, i'm Emmanuel! I am an aspiring software engineer who is passionate about creating technology to elevate people.
 
-Here are some ideas to get you started:
+I am currently attending the University of Virginia on track to graduate with a mojor degree in Computer and Electrical Engineering,
+as well as a minor degree in Computer Science and Applied Mathematics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### You can find me around on the web 🌎:
+
+- Well I would add a link to my <a href="https://github.com/emmanuelogunjirin">Github</a> page, but you found it!!
+- My personal website emmanuelogunjirin.dev 👨🏾‍💻 (currently in the development :-))
+- My <a href="https://www.linkedin.com/in/emmanuel-ogunjirin-777303178/">LinkedIn</a> profile 👔
+- You can also reach me by email at emmanuel@ogunjirin.me
+
+Happy coding 👨🏾‍💻

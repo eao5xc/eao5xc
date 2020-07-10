@@ -2,8 +2,8 @@
 
 Hi, i'm Emmanuel! I am an aspiring software engineer who is passionate about creating technology to elevate people.
 
-I am currently attending the University of Virginia on track to graduate with a mojor degree in Computer and Electrical Engineering,
-as well as a minor degree in Computer Science and Applied Mathematics.
+I am currently attending the University of Virginia on track to graduate with a major in Computer and Electrical Engineering,
+as well as a minor in Computer Science and Applied Mathematics.
 
 ##### You can find me around on the web 🌎:
 

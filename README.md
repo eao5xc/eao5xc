@@ -8,7 +8,7 @@ as well as a minor in Computer Science and Applied Mathematics.
 ##### You can find me around on the web 🌎:
 
 - Well I would add a link to my <a href="https://github.com/emmanuelogunjirin">Github</a> page, but you found it!!
-- My personal website: emmanuelogunjirin.dev (currently in the development 🛠)
+- My personal website: emmanuelogunjirin.dev (currently in development 🛠)
 - My <a href="https://www.linkedin.com/in/emmanuel-ogunjirin-777303178/">LinkedIn</a> profile 👔
 - You can also reach me by email at emmanuel@ogunjirin.me
 

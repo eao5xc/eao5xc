@@ -9,7 +9,7 @@ as well as a minor in Computer Science and Applied Mathematics.
 
 - Well, I would add a link to my Github page, but you found it 😂!!
 - My personal website: <a href="https://www.emmanuelogunjirin.dev">emmanuelogunjirin.dev</a> (currently in development 🛠)
-- My <a href="https://www.linkedin.com/in/emmanuel-ogunjirin-777303178/">LinkedIn</a> profile 👔
+- My <a href="https://www.linkedin.com/in/emmanuel-ogunjirin">LinkedIn</a> profile 👔
 - You can also reach me by email at emmanuel@ogunjirin.me ✍🏾
 
 Happy coding! 👨🏾‍💻
